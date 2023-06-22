@@ -7,9 +7,7 @@ Pescadería Don José
 Tienda Virtual usando HTML/CSS/Bootstrap 5
 
 
-![Tienda Virtual]
-
-(index.png)
+![screenshot](../image/index.png)
 
 
 ## Autor
