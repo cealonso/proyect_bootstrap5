@@ -9,7 +9,7 @@ Tienda Virtual usando HTML/CSS/Bootstrap 5
 
 ![Tienda Virtual]
 
-(https://github.com/cealonso/proyect_bootstrap5/blob/main/index.png)
+(index.png)
 
 
 ## Autor
